@@ -8,4 +8,4 @@ Utilizes principles of backtracking search including:
   - Least constraining value to determine the order in which the values should be chosen
   - Forward checking detect inevitable failure early on
 
-Running on an MSI GS65 with an Intel i7-8750H CPU and using a test suite of 100 puzzles of varying difficulty, the runtime is approximately 0.5 seconds per puzzle.
+Using a test suite of 100 puzzles of varying difficulty, the runtime is approximately 0.5 seconds per puzzle.
